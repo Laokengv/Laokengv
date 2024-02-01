@@ -1,6 +1,6 @@
 - Hi, I’m @Laokengv
 - I’m interested in coding, cars, gaming, custom mechanical keyboards, and sneakers.
-- I’m currently learning how to code!
+- I'm a full stack software engineer! I hope to learn some new technical languages and expand my skills! 
 
 
 <!---
